@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello VisualStudio Git!\n");
+	printf("わわわわわわわわ\n");
 	return 0;
 }
